@@ -1,0 +1,14 @@
+h1 {
+    font: 25px "Georgia", Futura, sans-serif;
+}
+
+.button {
+    transition-duration: 0.4s;
+    background-color: blueviolet;
+    color: white;
+}
+
+.button:hover{
+    background-color: white;
+    color: black;
+}
